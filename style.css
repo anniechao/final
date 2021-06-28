@@ -48,6 +48,7 @@ h2{
 
 .ready{
     margin-bottom: 2rem;
+    color: rgb(28, 26, 26);
 
 }
 .ready-ch{
@@ -89,6 +90,22 @@ h2{
 .fa-crown{
     font-size: 2.5rem;
     margin-left: 1rem;
+}
+/*Instruction Page CSS*/
+.instru{
+    margin-bottom: 1rem;
+    color: rgb(28, 26, 26);
+}
+
+.rule{
+    font-size: 2rem;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 2rem;
+    line-height: 3rem;
+}
+.ntu{
+    color: red;
 }
 /*End Page CSS*/
 .end-form-container{

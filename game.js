@@ -162,4 +162,16 @@ incrementScore = num =>{
     scoreText.innerText = score
 }
 
+var bgmusic = new Howl({
+    src: ['Monkeys-Spinning-Monkeys.mp3'],  
+  });
+document.querySelector(".play-music").addEventListener("click", () => {
+    if (!bgmusic.playing()) {
+       bgmusic.play();
+    }
+ })
+ document.querySelector(".stop-music").addEventListener("click", () => {
+    bgmusic.pause();
+ })  
+  
 startGame()
