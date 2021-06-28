@@ -37,6 +37,7 @@ https://anniechao.github.io/final/index.html
 - 靈感參考: [How to Make a Quiz App using HTML CSS Javascript](https://www.youtube.com/watch?v=f4fB9Xg2JEY&ab_channel=BrianDesign)
   - 自行調整配色、版面、題目內容，並增加音效、背景音樂、與規則說明頁
 - Font Awesome Icon : https://fontawesome.com/
+- NTU 題目: [台大維基百科](https://zh.wikipedia.org/wiki/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E5%A4%A7%E5%AD%B8)、朋友提供、自身經驗
 ## JavaScript 函式庫 - Howler.js
 - [Howler.js](https://howlerjs.com/)
   - howler.js makes working with audio in JavaScript easy and reliable across all platforms.
